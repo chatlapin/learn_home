@@ -1,5 +1,6 @@
 # learn_home
 Un document PDF contenant les diagrammes de cas d’usage.
+https://github.com/chatlapin/learn_home/blob/main/diagram/Use_Case_Diagram_LearnAtHome_Cho-Drugeon.pdf
 
 Un document PDF contenant les user stories avec critère(s) d’acceptation.
 https://github.com/chatlapin/learn_home/blob/main/user_stories/Learn_home_user_stories.pdf
